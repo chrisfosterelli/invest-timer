@@ -33,12 +33,12 @@ two or three months.
 
 ![Chart 1](graphs/1.png)
 
-## High Interest Estimate
+## High Return Estimate
 
 If you're young you may have a more aggressive portfolio and consider 4% a low
 return, but we can increase it to 8% for a different graph. As you'd expect,
-this skews the graph toward investing more often -- as your interest goes up
-it will be more valuable to invest earlier. For our settings this causes every
+this skews the graph toward investing more often -- as your return goes up it 
+will be more valuable to invest earlier. For our settings this causes every
 second month to be the optimal choice.
 
 ![Chart 2](graphs/2.png)
@@ -56,10 +56,10 @@ cut of the contribution so it will be better to invest every fourth month.
 
 What if we are using an online brokerage with very high fees? Most are in the
 range of $5-$10 but some are as high as $35/trade. At $35 we can see this
-drastically affects the optimal month and it now makes the most sense to invest
-every five months. It's interesting to note that, even if you invest optimally
-in both situations, the higher fees work out to about $1,000 (~0.7%) less value
-in the portfolio.
+affects the optimal month and it now makes the most sense to invest every five 
+months. It's interesting to note that, even if you invest optimally in both 
+situations, the higher fees work out to about $1,000 (~0.7%) less value in the 
+portfolio.
 
 ![Chart 4](graphs/4.png)
 

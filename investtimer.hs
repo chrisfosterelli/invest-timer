@@ -1,8 +1,8 @@
--- invesettimer.hs
+-- investtimer.hs
 
 fee = 10
 time = 120
-rate = 0.04
+rate = 0.08
 savings = 1000
 
 data Account = Account Int Int
