@@ -1,9 +1,9 @@
 -- invesettimer.hs
 
-fee = 15
+fee = 10
 time = 120
-rate = 0.08
-savings = 2000
+rate = 0.04
+savings = 1000
 
 data Account = Account Int Int
 
