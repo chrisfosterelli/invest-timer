@@ -32,7 +32,7 @@ This assumes a fee of $10, an average return of 4%, and a monthly contribution
 of $1,000. You can see that, in this case, the best time to invest is every 
 two or three months.
 
-![graphs/1.png]
+![Chart 1](graphs/1.png)
 
 ## High Interest Estimate
 
@@ -42,7 +42,7 @@ this skews the graph toward investing more often -- as your interest goes up
 it will be more valuable to invest earlier. For our settings this causes every
 second month to be the optimal choice.
 
-![graphs/2.png]
+![Chart 2](graphs/2.png)
 
 ## Low Savings Estimate
 
@@ -51,7 +51,7 @@ contribution every single month. Let's take our average way down to a $500/month
 contribution and see how that changes the results. Fee's will now take a bigger
 cut of the contribution so it will be better to invest every fourth month.
 
-![graphs/3.png]
+![Chart 3](graphs/3.png)
 
 ## High Fees Estimate
 
@@ -62,7 +62,7 @@ every five months. It's interesting to note that, even if you invest optimally
 in both situations, the higher fees work out to about $1,000 (~0.7%) less value
 in the portfolio.
 
-![graphs/4.png]
+![Chart 4](graphs/4.png)
 
 ## Shifted Estimate
 
@@ -70,4 +70,4 @@ Let's try changing a bunch of fields and see how that affects the result. This
 graph is a $2,000 monthly investment with a $15 fee and an average return of 8%.
 This returns every second month as the most optimal.
 
-![graphs/5.png]
+![Chart 5](graphs/5.png)
