@@ -24,8 +24,8 @@ simulateMonth period (Account cash assets) month
 simulate :: Int -> Float
 simulate period = value $ foldl simulate account months
   where simulate = simulateMonth period
-        account = Account 0 0
-        months  = [1..time]
+        account  = Account 0 0
+        months   = [1..time]
 
 value :: Account -> Float
 value (Account cash assets) = fromIntegral value / 100
