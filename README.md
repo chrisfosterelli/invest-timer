@@ -18,8 +18,7 @@ determine what schedule is the most efficient to buy with. The reality is the
 best time is going to be somewhere in the middle of the month most of the time,
 but I only wanted to consider the end of each month for practicality reasons.
 
-All of the simulations assume a 10 year estimation window, interest is
-compounded monthly.
+All of the simulations assume a 10 year estimation window.
 
 I played with a bunch of different configurations and the vast majority of the
 time the most optimal window is to invest every 2 - 5 months, depending on the
