@@ -1,11 +1,11 @@
 Invest Timer
 ============
 
-It is often mentioned that, when using ETF's for a couch potato strategy, it is
-better to contribute infrequent lump sums instead of small monthly payments,
-primarily due to the fees associated with purchases of ETF's. Most brokerages
-charge between $5-$35, so if you are only contributing small monthly amounts
-the charge is eating away at a large portion of that.
+It is often mentioned that, when using ETF's for a passive investing strategy,
+it is better to contribute infrequent lump sums instead of small monthly 
+payments, primarily due to the fees associated with purchases of ETF's. Most 
+brokerages charge between $5-$35, so if you are only contributing small monthly 
+amounts the charge is eating away at a large portion of that.
 
 However, on the other hand every month you wait is investment return you are
 not receiving. I couldn't find any concrete info on what amounts or with what
